@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Satyajit Pattnaik
 
-"""
 
 from flask import Flask,render_template,redirect,request
 import warnings
